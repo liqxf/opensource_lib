@@ -1,2 +1,2 @@
 # opensource_lib
-From open source
+Open source code from network
